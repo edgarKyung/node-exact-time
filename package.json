@@ -1,0 +1,9 @@
+{
+  "name": "node-exact-time",
+  "version": "1.0.0",
+  "description": "you can get time exatly",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "nhyun.kyung",
+  "repository": "https://github.com/edgarKyung/node-exact-time.git"
+}
